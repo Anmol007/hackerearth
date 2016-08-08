@@ -10,7 +10,6 @@ int main()
 	cin>>query;
 	while(query--){
 		cin>>x;
-		
 		if(x==1){
 			if(s.empty()){
 				cout<<"No Food"<<endl;
