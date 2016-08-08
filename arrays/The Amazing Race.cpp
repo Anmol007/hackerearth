@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
   	long long int M=1000000009;
-  	//cout<<M;
+  	
   	vector <long long int> height, sight;
   	long long int n;
   	long long int test;
