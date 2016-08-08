@@ -3,7 +3,6 @@
 #include<stack>
 using namespace std;
  
-int done[100001];
 int main()
 {
 	stack <char> s;
